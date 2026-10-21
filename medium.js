@@ -117,8 +117,8 @@ let prompt = require('prompt-sync')();
 // 20. Check login credentials using a username and password.
 
 
-let username = "raghav"
-let password = "raghav@123"
+let username = "amit"
+let password = "amit@123"
 
 let name = prompt("enter the name ")
 let userPassword =  prompt("enter the password")
